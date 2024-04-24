@@ -7,11 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<h1>Add Employee</h1>
-
-<a href="./addEmpForm">Add Employee</a>
- | <a href="./findAllEmp">All Employees</a>
-
+<a href="./addStuForm">All Students</a> |<a href="./findAllStu">All Students</a>
 </body>
 </html>
